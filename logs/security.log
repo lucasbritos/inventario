@@ -1,0 +1,5 @@
+2019-08-29 18:40:48.917+0000 ERROR []: failed to log in: invalid principal or credentials
+2019-08-29 18:40:49.232+0000 INFO  [neo4j]: logged in
+2019-08-29 18:40:50.069+0000 INFO  [neo4j]: logged in
+2019-08-29 18:40:50.120+0000 INFO  [neo4j]: logged in
+2019-08-29 18:40:50.174+0000 INFO  [neo4j]: logged in

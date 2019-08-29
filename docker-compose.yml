@@ -10,7 +10,7 @@ services:
       - "7687:7687"
     restart: always
     volumes:
-      - "$PWD/neo4j/conf:/conf"
+      - "$PWD/neo4j/conf/neo4j.conf:/conf/neo4j.conf"
       - "neo4j_data:/data"
       - "$PWD/logs:/logs"
       - "$PWD/plugins:/plugins"
